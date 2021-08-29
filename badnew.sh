@@ -6,7 +6,7 @@
 cd /usr/bin
 mkdir build
 cd build
-wget https://github.com/ambrop72/badvpn/archive/1.999.130.tar.gz
+wget https://www.dropbox.com/s/0a7adn6nm5lrct4/badvpn-1.999.130.tar.gz
 tar xvzf 1.999.130.tar.gz
 cd badvpn-1.999.130
 cmake -DBUILD_NOTHING_BY_DEFAULT=1 -DBUILD_TUN2SOCKS=1 -DBUILD_UDPGW=1
