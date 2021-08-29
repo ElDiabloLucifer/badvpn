@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
 # Created by Juli 2020
 # Modified by HideSSH
 #multi port debian / ubuntu
