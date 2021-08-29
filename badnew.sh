@@ -36,5 +36,3 @@ chmod +x /usr/local/bin/badvpn-tun2socks
 chmod +x /usr/local/share/man/man8/badvpn-tun2socks.8
 chmod +x /usr/bin/build
 chmod +x /etc/rc.local
-
-
